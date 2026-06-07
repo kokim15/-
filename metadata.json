@@ -1,0 +1,6 @@
+{
+  "name": "Scripture Search",
+  "description": "Multi-Faith Scripture Search App using the Gemini API to search sacred texts of Islam, Hinduism (Sanatan), and Christianity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

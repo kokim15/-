@@ -1,2 +1,20 @@
-# -
-রিয়েল-টাইম এআই স্পেকট্রোমেট্রি ইঞ্জিন সরাসরি ৪টি প্রধান ঐতিহাসিক ঐতিহ্য—ইসলাম (কুরআন, হাদিসবিডি-র ভেরিফাইড হাদিসসমগ্র ও সীরাত), সনাতন ধর্ম (গীতা/বেদ/উপনিষদ), খ্রিষ্টধর্ম (বাইবেল) এবং বৌদ্ধ ধর্ম (ত্রিপিটক/ধম্মপদ) থেকে সত্যবাদী উদ্ধৃতি এবং নির্ভরযোগ্য রেফারেন্স লিংকসহ উপযুক্ত বাণী ও তত্ত্বীয় বিশ্লেষণ নিয়ে আসে।
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/b8174710-1ca5-4b80-a320-4bade4ff28af
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
